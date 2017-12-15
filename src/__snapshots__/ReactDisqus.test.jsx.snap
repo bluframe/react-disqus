@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReactDisqus renders 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <div>
+    <div
+      id="disqus_thread"
+      style={
+        Object {
+          "marginTop": "20px",
+        }
+      }
+    />
+    <noscript>
+      Please enable JavaScript to view the 
+      <a
+        href="https://disqus.com/?ref_noscript"
+        rel="nofollow"
+      >
+        comments powered by Disqus.
+      </a>
+    </noscript>
+  </div>,
+  "nodes": Array [
+    <div>
+      <div
+        id="disqus_thread"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      />
+      <noscript>
+        Please enable JavaScript to view the 
+        <a
+          href="https://disqus.com/?ref_noscript"
+          rel="nofollow"
+        >
+          comments powered by Disqus.
+        </a>
+      </noscript>
+    </div>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_context": Object {},
+    "_element": <ReactDisqus />,
+    "_forcedUpdate": false,
+    "_instance": null,
+    "_newState": null,
+    "_rendered": <div>
+      <div
+        id="disqus_thread"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      />
+      <noscript>
+        Please enable JavaScript to view the 
+        <a
+          href="https://disqus.com/?ref_noscript"
+          rel="nofollow"
+        >
+          comments powered by Disqus.
+        </a>
+      </noscript>
+    </div>,
+    "_rendering": false,
+    "_updater": Updater {
+      "_renderer": [Circular],
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <ReactDisqus />,
+}
+`;

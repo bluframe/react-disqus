@@ -1,0 +1,4 @@
+**/src/scripts/**
+**/flow-typed/*.js
+favicon.ico
+robots.txt

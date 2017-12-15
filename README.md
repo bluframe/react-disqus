@@ -1,1 +1,1 @@
-# react-disqus
+# reactdisqus
